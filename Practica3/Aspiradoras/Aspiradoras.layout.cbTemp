@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="GUI.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="16354" topLine="429" />
+	</File>
+	<File name="GUI.h" open="0" top="0" tabpos="6">
+		<Cursor position="319" topLine="0" />
+	</File>
+	<File name="environment.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="25201" topLine="709" />
+	</File>
+	<File name="environment.h" open="1" top="0" tabpos="3">
+		<Cursor position="1544" topLine="26" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1072" topLine="20" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
